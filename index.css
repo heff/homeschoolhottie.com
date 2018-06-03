@@ -13,3 +13,7 @@ h1 {
 #happy-bday {
   font-size: 48px;
 }
+
+a, a:visited {
+  color: #090;
+}
